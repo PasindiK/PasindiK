@@ -5,7 +5,7 @@
 ## 🌟 About Me
 - Data Science Enthusiast
   
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=PasindiK.PasindiK)
 
 ---
 
