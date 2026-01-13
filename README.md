@@ -3,7 +3,7 @@
 ---
 
 ## 🌟 About Me
-- Data Science enthusiast 
+- Data Science Enthusiast 
   
 ---
 
