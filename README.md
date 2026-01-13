@@ -3,11 +3,10 @@
 ---
 
 ## 🌟 About Me
-- Final-year Data Science student | AI & ML enthusiast  
+- AI & ML enthusiast | Data Science student
 - Passionate about building intelligent applications  
-- Exploring Data Visualization, NLP, and Recommendation Systems  
-- Always experimenting with new technologies
-
+- Exploring Lakehouse Architectures, Agentic AI, and Data Visualization
+- 
 ---
 
 ## 💻 Tech Stack
@@ -18,25 +17,6 @@
 
 ---
 
-## 🛠 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Fashion Recommendation Engine | AI-powered product suggestions | [Repo](https://github.com/PasindiK/project1) |
-| Real-Time Translator | Speech-to-speech translation app | [Repo](https://github.com/PasindiK/project2) |
-| Data Lakehouse Optimization | Automated schema drift management | [Repo](https://github.com/PasindiK/project3) |
-
-> Add more projects as you create them!
-
----
-
-## 📊 GitHub Stats
-![PasindiK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PasindiK&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PasindiK&layout=compact)
-
----
-
-## ✨ Fun Facts
 - Coffee & coding ☕  
 - Always learning new AI tricks 🤖  
-- Curious about open-source contributions  
 
