@@ -5,8 +5,6 @@
 ## 🌟 About Me
 - Data Science Enthusiast
   
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=PasindiK.PasindiK)
-
 ---
 
 # 💻 Tech Stack:
